@@ -3,7 +3,7 @@ title: "Home"
 description: "Esta es mi página principal de mi portfolio"
 ---
 
-¡Hola! Soy Jose, Administrador de Sistemas en la Comunidad Valenciana. 
+¡Hola! Soy Jose, Administrador de Sistemas en la Comunidad Valenciana
 
 Me especializo en la gestión de infraestructura, administración de entornos Microsoft 365 y el despliegue de servicios en contenedores y máquinas virtuales. Cuando no estoy optimizando redes, probablemente me encuentres trasteando con mi homelab.
 
