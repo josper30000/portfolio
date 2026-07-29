@@ -3,8 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://josper30000.github.io"
-defaultContentLanguage = "en"
+baseURL = "https://josper30000.github.io/portfolio/"
+defaultContentLanguage = "es"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
