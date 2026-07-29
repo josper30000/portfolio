@@ -32,11 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     env:
       HUGO_VERSION: 0.164.0
-    # Esto es obligatorio en repositorios privados:
-    permissions:
-      contents: read
-      pages: write
-      id-token: write  
+ 
     steps:
       - name: Install Hugo CLI
         run: |
