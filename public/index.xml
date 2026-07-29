@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to Blowfish! :tada: on Blowfish</title>
+    <title>Home on José Ramón Peris - Portfolio</title>
     <link>http://192.168.1.57:1313/</link>
-    <description>Recent content in Welcome to Blowfish! :tada: on Blowfish</description>
+    <description>Recent content in Home on José Ramón Peris - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>© 2026 </copyright>
+    <language>es</language>
+    <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
+    <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
+    <copyright>© 2026 José Ramón Peris</copyright>
     <atom:link href="http://192.168.1.57:1313/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
