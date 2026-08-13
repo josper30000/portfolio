@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on José Ramón Peris - Portfolio</title>
+    <link>http://192.168.1.57:1313/pages/</link>
+    <description>Recent content in Pages on José Ramón Peris - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
+    <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
+    <copyright>© 2026 José Ramón Peris</copyright>
+    <lastBuildDate>Wed, 29 Jul 2026 12:30:34 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/pages/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://192.168.1.57:1313/pages/contacto/</link>
+      <pubDate>Wed, 29 Jul 2026 12:30:34 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/pages/contacto/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

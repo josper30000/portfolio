@@ -9,7 +9,37 @@
     <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
     <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
     <copyright>© 2026 José Ramón Peris</copyright>
-    <atom:link href="http://192.168.1.57:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Aug 2026 09:30:14 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Curriculum</title>
+      <link>http://192.168.1.57:1313/curriculum/</link>
+      <pubDate>Thu, 13 Aug 2026 09:30:14 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/curriculum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Formacion</title>
+      <link>http://192.168.1.57:1313/formacion/</link>
+      <pubDate>Thu, 13 Aug 2026 09:26:54 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/formacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Creacion Portafolio</title>
+      <link>http://192.168.1.57:1313/posts/creacion-portafolio/</link>
+      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/posts/creacion-portafolio/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>
