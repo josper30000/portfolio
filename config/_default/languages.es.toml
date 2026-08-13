@@ -17,10 +17,10 @@ title = "José Ramón Peris - Portfolio"
 [params.author]
 name = "José Ramón Peris"
 email = "peris30000@outlook.es"
-#   image = "img/blowfish_logo.png"
-#   imageQuality = 96
+   image = "img/Peris.png"
+   imageQuality = 96
 headline = "SysAdmin | Especializándome en Cloud Computing, DevOps e IA | Linux, Proxmox, Docker | Intune, EntraID"
-bio = ""
+#bio = "Holaajajajajajaj"
 links = [
     { email = "mailto:peris30000@outlook.es" },
     { link = "https://josper30000.github.io/portfolio/" },
