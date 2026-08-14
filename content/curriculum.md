@@ -1,11 +1,6 @@
 ---
 title: "Curriculum"
-showDate: false
-showWordCount: false
-showReadingTime: false
-showAuthor: True
-showBreadcrumbs: False
-showTableOfContents: True
+
 ---
 
 ## PERFIL PROFESIONAL
