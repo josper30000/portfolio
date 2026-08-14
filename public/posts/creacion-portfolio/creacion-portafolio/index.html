@@ -256,7 +256,7 @@
     
     
     "mainEntityOfPage": "http://192.168.1.57:1313/posts/creacion-portfolio/creacion-portafolio/",
-    "wordCount": "16"
+    "wordCount": "111"
   }]
   </script>
 
@@ -606,7 +606,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-08-13T09:24:37&#43;00:00">13 agosto 2026</time><span class="px-2 text-primary-500">&middot;</span><span>16 palabras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+      <time datetime="2026-08-13T09:24:37&#43;00:00">13 agosto 2026</time><span class="px-2 text-primary-500">&middot;</span><span>111 palabras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
     
 
     
@@ -666,8 +666,35 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>Aquí vamos a ver como crear nuestra web portafolio con HUGO y Blowfish.</p>
-<p>Lo primero, será</p>
+          <p>Aquí vamos a ver como crear nuestra web portafolio con HUGO y Blowfish, para posteriormente subirlo a github vía github pages.</p>
+<p>Requisitos previos:</p>
+<p>Tener un repositorio de Github</p>
+<p>Tener docker instalado o hacerlo en una máquina Linux</p>
+<p>Este tutorial es para Linux, yo todo este tutorial lo voy a hacer en un contenedor LXC de mi Proxmox.</p>
+<p>Lo primero será instalar HUGO, actualizamos repositorios y luego lo instalamos</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt install git hugo</span></span></code></pre></div></div>
+<img class="customEntitityLogo" src="/creacion-portfolio/images/instalar-hugo.png"/>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+    alt="imagen instalar hugo"
+    src="./images/instalar-hugo.png"
+    ></figure>
+<p>Con esto tendremos instalado tanto Git para poder subir la página a github vía Github pages.</p>
+<p>Ahora que tenemos esto instalado, podemos crear el proyecto base.</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo new site portafolio
+</span></span><span class="line"><span class="cl"><span class="nb">cd</span> portafolio
+</span></span><span class="line"><span class="cl">git init</span></span></code></pre></div></div>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+    alt="imagen arrancar proyecto hugo"
+    src="./images/arrancar-portfolio.png"
+    ></figure>
 
           
           
