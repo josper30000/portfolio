@@ -1,7 +1,7 @@
 +++
 title = 'Creacion Portafolio'  
 date = 2026-08-13T09:24:37Z  
-draft = false
+draft = true
 +++
 
 Aquí vamos a ver como crear nuestra web portafolio con HUGO y Blowfish, para posteriormente subirlo a github vía github pages.
@@ -19,7 +19,7 @@ Lo primero será instalar HUGO, actualizamos repositorios y luego lo instalamos
 ```bash
 sudo apt update && sudo apt install git hugo
 ```
-<img class="customEntitityLogo" src="/posts/images/instalar-hugo.png"/>
+<img class="customEntitityLogo" src="/creacion-portfolio/images/instalar-hugo.png"/>
 
 ![imagen instalar hugo](./images/instalar-hugo.png)
 
