@@ -19,7 +19,7 @@ Lo primero será instalar HUGO, actualizamos repositorios y luego lo instalamos
 ```bash
 sudo apt update && sudo apt install git hugo
 ```
-<img class="customEntitityLogo" src="/creacion-portfolio/images/instalar-hugo.png"/>
+<img class="" src="./images/instalar-hugo.png"/>
 
 ![imagen instalar hugo](./images/instalar-hugo.png)
 
