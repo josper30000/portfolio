@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://192.168.1.57:33973/formacion/</loc>
+    <loc>http://192.168.1.57:1313/formacion/</loc>
     <lastmod>2026-08-13T09:26:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:33973/</loc>
+    <loc>http://192.168.1.57:1313/</loc>
     <lastmod>2026-08-13T09:26:54+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:33973/posts/creacion-portfolio/creacion-portafolio/</loc>
+    <loc>http://192.168.1.57:1313/posts/creacion-portfolio/creacion-portafolio/</loc>
     <lastmod>2026-08-13T09:24:37+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:33973/posts/</loc>
+    <loc>http://192.168.1.57:1313/posts/</loc>
     <lastmod>2026-08-13T09:24:37+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:33973/curriculum/</loc>
+    <loc>http://192.168.1.57:1313/curriculum/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

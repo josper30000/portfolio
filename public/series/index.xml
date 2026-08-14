@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on José Ramón Peris - Portfolio</title>
-    <link>http://192.168.1.57:33973/series/</link>
+    <link>http://192.168.1.57:1313/series/</link>
     <description>Recent content in Series on José Ramón Peris - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
     <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
     <copyright>© 2026 José Ramón Peris</copyright>
-    <atom:link href="http://192.168.1.57:33973/series/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://192.168.1.57:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
