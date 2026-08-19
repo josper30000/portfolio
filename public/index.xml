@@ -41,5 +41,15 @@
       
     </item>
     
+    <item>
+      <title>Pruebas</title>
+      <link>http://192.168.1.57:1313/posts/pruebas/</link>
+      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/posts/pruebas/</guid>
+      <description></description>
+      
+    </item>
+    
   </channel>
 </rss>
