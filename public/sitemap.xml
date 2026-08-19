@@ -3,6 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://192.168.1.57:1313/curriculum/</loc>
+    <lastmod>2026-08-13T09:26:54+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://192.168.1.57:1313/formacion/</loc>
     <lastmod>2026-08-13T09:26:54+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -23,11 +29,6 @@
   <url>
     <loc>http://192.168.1.57:1313/posts/</loc>
     <lastmod>2026-08-13T09:24:37+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://192.168.1.57:1313/curriculum/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

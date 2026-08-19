@@ -1,8 +1,9 @@
-+++
-title = 'Formacion'
-date = 2026-08-13T09:26:54Z
-draft = false
-+++
+---
+title: 'Formacion'
+date: 2026-08-13T09:26:54Z
+draft: false
+showAuthor: true
+---
 
 <!--Los estilos hay que pasarlos a un css externo-->
 <table style="display:table;">
