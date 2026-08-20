@@ -33,14 +33,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:1313/posts/</loc>
+    <loc>http://192.168.1.57:1313/posts/pruebas/</loc>
     <lastmod>2026-08-13T09:24:37+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://192.168.1.57:1313/posts/pruebas/</loc>
-    <lastmod>2026-08-13T09:24:37+00:00</lastmod>
+    <loc>http://192.168.1.57:1313/posts/</loc>
+    <lastmod>2022-06-13T20:55:37+01:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

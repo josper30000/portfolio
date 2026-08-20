@@ -2,6 +2,8 @@
 title = 'Pruebas'  
 date = 2026-08-13T09:24:37Z  
 draft = false
+featureimage = "./images/arrancar-portfolio.png"
+summary = "Este es un resumen corto del post."
 showAuthor= true
 +++
 
