@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sobre-Mis on José Ramón Peris - Portfolio</title>
+    <link>http://192.168.1.57:1313/sobre-mi/</link>
+    <description>Recent content in Sobre-Mis on José Ramón Peris - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
+    <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
+    <copyright>© 2026 José Ramón Peris</copyright>
+    <lastBuildDate>Thu, 20 Aug 2026 09:38:12 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/sobre-mi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Sobre Mi</title>
+      <link>http://192.168.1.57:1313/sobre-mi/sobre-mi/</link>
+      <pubDate>Thu, 20 Aug 2026 09:38:12 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/sobre-mi/sobre-mi/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

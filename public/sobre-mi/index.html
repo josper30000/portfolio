@@ -15,8 +15,8 @@
 
   
   
-    <title>Pruebas &middot; José Ramón Peris - Portfolio</title>
-    <meta name="title" content="Pruebas &middot; José Ramón Peris - Portfolio">
+    <title>Sobre Mi &middot; José Ramón Peris - Portfolio</title>
+    <meta name="title" content="Sobre Mi &middot; José Ramón Peris - Portfolio">
   
 
   
@@ -34,7 +34,7 @@
   
   
   
-  <link rel="canonical" href="http://192.168.1.57:1313/posts/pruebas/">
+  <link rel="canonical" href="http://192.168.1.57:1313/sobre-mi/">
   
   
 
@@ -69,18 +69,17 @@
   
 
   
-  <meta property="og:url" content="http://192.168.1.57:1313/posts/pruebas/">
+  <meta property="og:url" content="http://192.168.1.57:1313/sobre-mi/">
 	<meta property="og:site_name" content="José Ramón Peris - Portfolio">
-	<meta property="og:title" content="Pruebas">
+	<meta property="og:title" content="Sobre Mi">
 	<meta property="og:locale" content="es">
 	<meta property="og:type" content="article">
-		<meta property="article:section" content="posts">
-		<meta property="article:published_time" content="2026-08-13T09:24:37+00:00">
-		<meta property="article:modified_time" content="2026-08-13T09:24:37+00:00">
+		<meta property="article:published_time" content="2026-08-20T09:38:12+00:00">
+		<meta property="article:modified_time" content="2026-08-20T09:38:12+00:00">
 
   
 	<meta name="twitter:card" content="summary">
-	<meta name="twitter:title" content="Pruebas">
+	<meta name="twitter:title" content="Sobre Mi">
 
   
   
@@ -235,12 +234,12 @@
   [{
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": "Posts",
-    "name": "Pruebas",
-    "headline": "Pruebas",
+    "articleSection": "Home",
+    "name": "Sobre Mi",
+    "headline": "Sobre Mi",
     
     "inLanguage": "es",
-    "url" : "http://192.168.1.57:1313/posts/pruebas/",
+    "url" : "http://192.168.1.57:1313/sobre-mi/",
     "author" : {
       "@type": "Person",
       "name": "José Ramón Peris",
@@ -248,15 +247,15 @@
       "sameAs": ["https://josper30000.github.io/portfolio/", "https://github.com/josper30000", "https://www.linkedin.com/in/jos%C3%A9-ram%C3%B3n-peris-murcia/"]
     },
     "copyrightYear": "2026",
-    "dateCreated": "2026-08-13T09:24:37\u002b00:00",
-    "datePublished": "2026-08-13T09:24:37\u002b00:00",
+    "dateCreated": "2026-08-20T09:38:12\u002b00:00",
+    "datePublished": "2026-08-20T09:38:12\u002b00:00",
     
-    "dateModified": "2026-08-13T09:24:37\u002b00:00",
+    "dateModified": "2026-08-20T09:38:12\u002b00:00",
     
     
     
-    "mainEntityOfPage": "http://192.168.1.57:1313/posts/pruebas/",
-    "wordCount": "111"
+    "mainEntityOfPage": "http://192.168.1.57:1313/sobre-mi/",
+    "wordCount": "406"
   }]
   </script>
 
@@ -589,7 +588,7 @@
     <header id="single_header" class="mt-5 max-w-prose">
       
       <h1 class="mt-0 text-4xl font-extrabold text-neutral-900 dark:text-neutral">
-        Pruebas
+        Sobre Mi
       </h1>
       <div class="mt-1 mb-6 text-base text-neutral-500 dark:text-neutral-400 print:hidden">
         
@@ -641,7 +640,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <time datetime="2026-08-13T09:24:37&#43;00:00">13 agosto 2026</time><span class="px-2 text-primary-500">&middot;</span><span>111 palabras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">1 min</span>
+      <time datetime="2026-08-20T09:38:12&#43;00:00">20 agosto 2026</time><span class="px-2 text-primary-500">&middot;</span><span>406 palabras</span><span class="px-2 text-primary-500">&middot;</span><span title="Tiempo de lectura">2 mins</span>
     
 
     
@@ -797,34 +796,94 @@
         
 
         <div class="article-content max-w-prose mb-20">
-          <p>Aquí vamos a ver como crear nuestra web portafolio con HUGO y Blowfish, para posteriormente subirlo a github vía github pages.</p>
-<p>Requisitos previos:</p>
-<p>Tener un repositorio de Github</p>
-<p>Tener docker instalado o hacerlo en una máquina Linux</p>
-<p>Este tutorial es para Linux, yo todo este tutorial lo voy a hacer en un contenedor LXC de mi Proxmox.</p>
-<p>Lo primero será instalar HUGO, actualizamos repositorios y luego lo instalamos</p>
-<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt install git hugo</span></span></code></pre></div></div>
-<img class="" src="images/instalar-hugo.png"/>
-<figure><img
+          <figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
     fetchpriority="low"
-    alt="imagen instalar hugo"
-    src="./images/instalar-hugo.png"
+    alt="insertar imagen"
+    src=""
     ></figure>
-<p>Con esto tendremos instalado tanto Git para poder subir la página a github vía Github pages.</p>
-<p>Ahora que tenemos esto instalado, podemos crear el proyecto base.</p>
-<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo new site portafolio
-</span></span><span class="line"><span class="cl"><span class="nb">cd</span> portafolio
-</span></span><span class="line"><span class="cl">git init</span></span></code></pre></div></div>
+
+<h3 class="relative group">¿Quién soy?
+    <div id="quién-soy" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#qui%c3%a9n-soy" aria-label="Ancla">#</a>
+    </span>
+    
+</h3>
+<p>Buenas, mi nombre es <strong>José Ramón Peris Murcia</strong>, nací en <strong>Paiporta (Valencia)</strong> en <strong>1994</strong> y soy <em><strong>sysadmin</strong></em> desde <strong>2024</strong>. Desde pequeño me ha gustado la <strong>informática</strong>, tengo un ordenador en casa desde los <em>3 años</em> y mis grandes pasiones siempre han sido la <strong>automoción</strong> y la <strong>informática</strong>.</p>
+
+<h3 class="relative group">Mi vida laboral
+    <div id="mi-vida-laboral" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#mi-vida-laboral" aria-label="Ancla">#</a>
+    </span>
+    
+</h3>
+
+<h4 class="relative group">Primeros años
+    <div id="primeros-años" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#primeros-a%c3%b1os" aria-label="Ancla">#</a>
+    </span>
+    
+</h4>
+<p>Con <em>19 años</em> tuve que elegir entre mis dos pasiones, finalmente acabé haciendo un <strong>CFGS de Automoción</strong> y estuve trabajando en una empresa de automoción durante <strong>8 años y medio</strong>. Aunque seguía haciendo pequeñas cosas de informática, me centré más en el tema <em>hardware</em> y en trastear con <em>videoconsolas</em>. Pero llegó el <strong>2020</strong> y con él llegó la pandemia del <strong>COVID-19</strong>, el trabajo en el sector de la automoción empezó a bajar y la situación generaba incertidumbre, poco a poco vi que era el momento de un cambio.</p>
 <figure><img
     class="my-0 rounded-md"
     loading="lazy"
     decoding="async"
     fetchpriority="low"
-    alt="imagen arrancar proyecto hugo"
-    src="./images/arrancar-portfolio.png"
+    alt="insertar imagen"
+    src=""
+    ></figure>
+
+<h4 class="relative group">Hora de un cambio
+    <div id="hora-de-un-cambio" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#hora-de-un-cambio" aria-label="Ancla">#</a>
+    </span>
+    
+</h4>
+<p>Llegó el año <strong>2022</strong> y decidí comenzar un <strong>ciclo formativo</strong> de la rama de informática. Tuve que decantarme entre la rama de <em>sistemas</em> o la de <em>desarrollo</em>, finalmente tomé la decisión de entrar en la rama de sistemas; en <strong>Administración de Sistemas Informáticos en Red (ASIR)</strong> me dieron la base de <strong>Linux</strong>, mi primer acercamiento a <strong>AWS</strong>, entender cómo funcionan los servicios y conocer un abanico de ellos, aprender lenguajes como <strong>Python</strong> e incluso mis primeros experimentos con <strong>SQL</strong>. Se hizo dura esa época porque trabajaba y estudiaba a la vez (salía de casa a las <em>7:30 de la mañana</em> y llegaba a las <em>11 de la noche</em> de lunes a viernes, más luego estudiar por las noches).</p>
+
+<h4 class="relative group">Mi vida como SYSADMIN
+    <div id="mi-vida-como-sysadmin" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#mi-vida-como-sysadmin" aria-label="Ancla">#</a>
+    </span>
+    
+</h4>
+<p>En <strong>2024</strong> empecé mis prácticas en <strong>Grupo XTRA</strong> (Manises) y desde entonces sigo aquí trabajando. Aquí conocí a un equipo increíble, supe que finalmente me quería especializar en <em><strong>Cloud</strong></em> y <em><strong>DevOps</strong></em> y he crecido como profesional y como persona. Hoy en día me sigo formando constantemente, al final el mundo de la informática es <em>actualizarse o te quedas atrás</em> e intento seguir evolucionando como <em>Sysadmin</em>.</p>
+
+<h3 class="relative group">Vida personal y hobbies
+    <div id="vida-personal-y-hobbies" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#vida-personal-y-hobbies" aria-label="Ancla">#</a>
+    </span>
+    
+</h3>
+<p>Hoy en día vivo en <strong>Aldaia</strong>, sigo trasteando con el <em>hardware</em>, pero también tengo mi propio <em><strong>homelab</strong></em> que uso como laboratorio e integro aplicaciones que uso en mi día a día. Pero no todo en la vida está relacionado con la informática, también he descubierto este año que me encanta <strong>cocinar</strong> y voy a entrenar <strong>boxeo</strong> siempre que puedo como forma de descargar.</p>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+    alt="insertar imagen"
+    src=""
     ></figure>
 
           
@@ -853,21 +912,21 @@
       <div class="flex justify-between pt-3">
         <span class="flex flex-col">
           
-        </span>
-        <span class="flex flex-col items-end">
-          
             <a
-              class="flex text-right text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
-              href="/posts/creacion-portfolio/">
+              class="flex text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400"
+              href="/curriculum/">
               <span class="leading-6">
-                Creacion Portafolio&ensp;<span class="inline-block rtl:rotate-180">&rarr;</span>
+                <span class="inline-block rtl:rotate-180">&larr;</span>&ensp;Curriculum
               </span>
             </a>
             
-              <span class="me-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
-                <time datetime="2026-08-13T09:24:37&#43;00:00">13 agosto 2026</time>
+              <span class="ms-6 mt-1 text-xs text-neutral-500 dark:text-neutral-400">
+                <time datetime="2026-08-13T09:26:54&#43;00:00">13 agosto 2026</time>
               </span>
             
+          
+        </span>
+        <span class="flex flex-col items-end">
           
         </span>
       </div>
