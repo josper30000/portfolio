@@ -1,6 +1,5 @@
 +++
 title = 'Sobre Mi'
-date = 2026-08-20T09:38:12Z
 draft = false
 showAuthor= true
 +++

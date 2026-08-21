@@ -1,6 +1,5 @@
 ---
 title: "Curriculum"
-date: 2026-08-13T09:26:54Z
 draft: false
 showAuthor: true
 ---
@@ -22,7 +21,8 @@ virtualizada (Proxmox), aportando visión técnica a las necesidades operativas 
 - Garantía de cumplimiento de normativas mediante procedimientos de trabajo estandarizados (SOPs).
 - Coordinación de la formación técnica de nuevas incorporaciones, asegurando su rápida adaptación y la eficiencia del equipo.
 
-## FORMACIÓN Y CERTIFICACIONES
+
+## HABILIDADES DESTACADAS
 - Gestión Ágil y Producto: Jira, Confluence, Optimización de Procesos
 - Cloud & Arquitectura: Amazon Web Services (AWS), Microsoft Azure, Proxmox, Entornos Linux.
 - Innovación e IA: Prompt Engineering, Procesamiento del Lenguaje Natural (NLP), IA Ética, Anthropic Claude.
@@ -30,7 +30,7 @@ virtualizada (Proxmox), aportando visión técnica a las necesidades operativas 
 - Ciberseguridad: Crowdstrike Falcon, Netskope.
 
 
-## HABILIDADES DESTACADAS
+## FORMACIÓN Y CERTIFICACIONES
 ### Formación:
 - CFGS Administración de Sistemas Informáticos en Red (ASIR) | I.E.S. La Sènia (2022 - 2024)
 - CFGS Automoción y Mecánica del Automóvil | CIPFP Ciudad del Aprendiz (2013 - 2015)

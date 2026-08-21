@@ -1,6 +1,5 @@
 +++
 title = 'Pruebas'  
-date = 2026-08-13T09:24:37Z  
 draft = false
 featureimage = "./images/arrancar-portfolio.png"
 summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque purus nisl, imperdiet at hendrerit id, laoreet ut nulla. Maecenas vitae massa bibendum, feugiat lorem sed, fermentum diam. Nullam ut lacus justo. Vestibulum lectus ex, mollis vitae sapien sed, dictum aliquam enim. Donec egestas dictum tellus, non maximus dui laoreet eu. Nulla sed nisl porttitor velit iaculis euismod. Integer dapibus mi quis nunc suscipit, eu faucibus ex convallis. Mauris sollicitudin euismod aliquam. Fusce facilisis ante ullamcorper, facilisis ligula sed, commodo odio. Proin in iaculis quam, vitae elementum felis. Curabitur gravida, ligula sit amet finibus tincidunt, arcu lectus tincidunt tellus, vel venenatis libero ligula vel risus. Morbi consectetur nibh eget turpis malesuada feugiat. Mauris tortor diam, feugiat nec est vitae, pretium hendrerit nulla. Cras aliquet vel diam nec ultrices. In sed ullamcorper arcu. Pellentesque nec leo neque. "

@@ -9,37 +9,7 @@
     <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
     <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
     <copyright>© 2026 José Ramón Peris</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 09:38:12 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Sobre Mi</title>
-      <link>http://192.168.1.57:1313/sobre-mi/</link>
-      <pubDate>Thu, 20 Aug 2026 09:38:12 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/sobre-mi/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Curriculum</title>
-      <link>http://192.168.1.57:1313/curriculum/</link>
-      <pubDate>Thu, 13 Aug 2026 09:26:54 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/curriculum/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Formacion</title>
-      <link>http://192.168.1.57:1313/formacion/</link>
-      <pubDate>Thu, 13 Aug 2026 09:26:54 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/formacion/</guid>
-      <description></description>
-      
-    </item>
+    <lastBuildDate>Thu, 13 Aug 2026 09:24:37 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Creacion Portafolio</title>
@@ -52,12 +22,42 @@
     </item>
     
     <item>
+      <title>Curriculum</title>
+      <link>http://192.168.1.57:1313/curriculum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/curriculum/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Formacion</title>
+      <link>http://192.168.1.57:1313/formacion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/formacion/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Pruebas</title>
       <link>http://192.168.1.57:1313/posts/pruebas/</link>
-      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
       <guid>http://192.168.1.57:1313/posts/pruebas/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque purus nisl, imperdiet at hendrerit id, laoreet ut nulla. Maecenas vitae massa bibendum, feugiat lorem sed, fermentum diam. Nullam ut lacus justo. Vestibulum lectus ex, mollis vitae sapien sed, dictum aliquam enim. Donec egestas dictum tellus, non maximus dui laoreet eu. Nulla sed nisl porttitor velit iaculis euismod. Integer dapibus mi quis nunc suscipit, eu faucibus ex convallis. Mauris sollicitudin euismod aliquam. Fusce facilisis ante ullamcorper, facilisis ligula sed, commodo odio. Proin in iaculis quam, vitae elementum felis. Curabitur gravida, ligula sit amet finibus tincidunt, arcu lectus tincidunt tellus, vel venenatis libero ligula vel risus. Morbi consectetur nibh eget turpis malesuada feugiat. Mauris tortor diam, feugiat nec est vitae, pretium hendrerit nulla. Cras aliquet vel diam nec ultrices. In sed ullamcorper arcu. Pellentesque nec leo neque.</description>
+      
+    </item>
+    
+    <item>
+      <title>Sobre Mi</title>
+      <link>http://192.168.1.57:1313/sobre-mi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/sobre-mi/</guid>
+      <description></description>
       
     </item>
     
