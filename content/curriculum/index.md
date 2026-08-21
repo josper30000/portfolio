@@ -2,7 +2,9 @@
 title: "Curriculum"
 draft: false
 showAuthor: true
+
 ---
+<div class="curriculum">
 
 ## PERFIL PROFESIONAL
 Técnico de sistemas con más de 2 años de experiencia con formación en Administración de sistemas informáticos Linux y AWS. Con experiencia en soporte y resolución de problemas además de adaptación a nuevas tecnologías.
@@ -38,3 +40,4 @@ virtualizada (Proxmox), aportando visión técnica a las necesidades operativas 
 - Cloud: AWS Certified Cloud Practitioner | Microsoft Azure Fundamentals (AZ-900).
 - IA: Certificate of completion: Claude 101 | Claude Code in Action (Anthropic).
 - DevOps & Sistemas: GitHub Foundations | Certificación Linux Essentials (LPI).
+</div>

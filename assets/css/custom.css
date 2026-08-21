@@ -1,3 +1,24 @@
+/*Curriculum*/
+/*Para que la página tenga el ancho al 100%*/
+.article-content.max-w-prose:has(.curriculum) {
+    max-width: 100% !important;
+}
+
+/*Formación*/
+/*Tablas de formación*/
 td {
     vertical-align: middle!important;
+}
+
+/*Imagenes de insignias*/
+.customEntitityAlbum {
+    background-color:transparent;
+    max-width: 60px;
+    height: auto;
+}
+
+/*Sobre mi*/
+/*Para que la página tenga el ancho al 100%*/
+.article-content.max-w-prose:has(.sobre-mi) {
+    max-width: 100% !important;
 }

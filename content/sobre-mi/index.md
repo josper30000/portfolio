@@ -1,8 +1,13 @@
-+++
-title = 'Sobre Mi'
-draft = false
-showAuthor= true
-+++
+---
+title : 'Sobre Mi'
+draft : false
+showAuthor : true
+layout : "page"
+layoutBackgroundHeaderSpace : false
+---
+
+<div class="sobre-mi">
+
 
 ![insertar imagen]()
 
@@ -31,3 +36,5 @@ En **2024** empecé mis prácticas en **Grupo XTRA** (Manises) y desde entonces 
 Hoy en día vivo en **Aldaia**, sigo trasteando con el *hardware*, pero también tengo mi propio ***homelab*** que uso como laboratorio e integro aplicaciones que uso en mi día a día. Pero no todo en la vida está relacionado con la informática, también he descubierto este año que me encanta **cocinar** y voy a entrenar **boxeo** siempre que puedo como forma de descargar.
 
 ![insertar imagen]()
+
+</div>
