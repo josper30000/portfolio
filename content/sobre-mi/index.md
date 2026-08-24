@@ -37,4 +37,51 @@ Hoy en día vivo en **Aldaia**, sigo trasteando con el *hardware*, pero también
 
 ![insertar imagen]()
 
+# Prueba chatgpt
+
+# ¿Quién soy?
+
+¡Hola! Soy **José Ramón Peris Murcia**, nací en **Paiporta (Valencia) en 1994** y actualmente trabajo como **Sysadmin**, con especial interés en el mundo del **Cloud y DevOps**.
+
+Desde pequeño he sentido una gran curiosidad por la informática. Tengo ordenador en casa desde los tres años y, con el tiempo, esta afición se convirtió en una de mis grandes pasiones. La otra siempre ha sido la **automoción**, dos mundos que han estado muy presentes en mi vida y que, de una forma u otra, me han acompañado hasta hoy.
+
+## Mi vida laboral
+
+### Los primeros años
+
+A los 19 años llegó el momento de decidir hacia dónde orientar mi futuro profesional. Finalmente opté por estudiar un **CFGS de Automoción** y comencé a trabajar en el sector, donde permanecí durante **ocho años y medio**.
+
+Durante ese tiempo, la informática siguió formando parte de mi día a día, aunque principalmente como afición. Me interesaba especialmente el **hardware**, el montaje y mantenimiento de equipos y todo lo relacionado con el mundo de las videoconsolas.
+
+Sin embargo, en **2020** llegó la pandemia y el sector de la automoción comenzó a atravesar una etapa de incertidumbre. Aquella situación me hizo replantearme mi futuro profesional y empecé a valorar seriamente la posibilidad de dar un giro a mi trayectoria.
+
+![insertar imagen]()
+
+### El momento del cambio
+
+En **2022** decidí dar el paso y comenzar un nuevo ciclo formativo dentro de la rama de informática. En ese momento tuve que elegir entre dos caminos: **sistemas o desarrollo**. Finalmente me decanté por sistemas y comencé a estudiar **Administración de Sistemas Informáticos en Red (ASIR)**.
+
+Durante esta etapa adquirí las bases que me permitieron comenzar a construir mi perfil profesional en informática: aprendí a trabajar con **Linux**, tuve mi primer contacto con **AWS**, descubrí cómo funcionan y se relacionan diferentes servicios y comencé a experimentar con tecnologías como **Python y SQL**.
+
+Fue una etapa exigente, ya que compaginaba los estudios con mi trabajo. De lunes a viernes salía de casa alrededor de las 7:30 de la mañana y no regresaba hasta las 11 de la noche, además de dedicar parte de mi tiempo libre a estudiar. Aunque fue un periodo intenso, también fue una de las etapas que más contribuyó a mi crecimiento tanto personal como profesional.
+
+## Mi vida como Sysadmin
+
+En **2024** comencé mis prácticas en **Grupo XTRA, en Manises**, y desde entonces continúo formando parte de su equipo.
+
+Durante este tiempo he tenido la oportunidad de trabajar junto a grandes profesionales, adquirir experiencia en entornos reales y descubrir hacia dónde quería orientar mi carrera. Fue aquí donde confirmé mi interés por especializarme en **Cloud y DevOps**, áreas en las que continúo formándome y creciendo profesionalmente.
+
+La informática es un sector en constante evolución y creo que una de las claves para mantenerse en él es conservar la curiosidad y las ganas de aprender. Por eso intento seguir formándome continuamente, experimentar con nuevas tecnologías y buscar siempre nuevas formas de mejorar como profesional.
+
+## Vida personal y hobbies
+
+Actualmente vivo en **Aldaia** y sigo disfrutando de algunas de mis antiguas aficiones. Continúo trasteando con el **hardware** y, además, tengo mi propio **homelab**, que utilizo como entorno de experimentación para aprender, probar nuevas tecnologías e integrar aplicaciones y servicios que utilizo en mi día a día.
+
+Pero no todo gira alrededor de la informática. Durante los últimos años también he descubierto nuevas aficiones, como la **cocina**, que cada vez disfruto más. Además, intento sacar tiempo para entrenar **boxeo**, una actividad que me ayuda a desconectar, mantenerme activo y liberar estrés.
+
+Al final, creo que todas estas experiencias forman parte de quién soy hoy: una persona curiosa, con ganas de aprender y de seguir evolucionando, tanto a nivel profesional como personal.
+
+![insertar imagen]()
+
+
 </div>

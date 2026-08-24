@@ -3,9 +3,11 @@ title: "Home"
 description: "Esta es mi página principal de mi portfolio"
 ---
 
-¡Hola! Soy Jose, Administrador de Sistemas en la Comunidad Valenciana
+¡Hola! Soy José Ramón, Sysadmin en Valencia
 
- Me especializo en la gestión de infraestructura, administración de entornos Microsoft 365 y el despliegue de servicios en contenedores y máquinas virtuales. Cuando no estoy optimizando redes, probablemente me encuentres trasteando con mi homelab.
+Este es mi portfolio personal, un espacio donde comparto una selección de mis proyectos, tanto personales como profesionales. También es un lugar para compartir mis conocimientos, experiencias y aprendizajes con todas aquellas personas que quieran descubrir, aprender y seguir creciendo conmigo.
+
+
 
 <!-- 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
