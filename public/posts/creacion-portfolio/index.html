@@ -258,7 +258,7 @@
     
     
     "mainEntityOfPage": "http://192.168.1.57:1313/posts/creacion-portfolio/",
-    "wordCount": "111"
+    "wordCount": "308"
   }]
   </script>
 
@@ -640,6 +640,19 @@
 
     
     
+      <span class="ps-2"><span class="flex cursor-pointer">
+  
+  
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Borrador
+  </span>
+</span>
+</span>
+    
   </div>
 
   
@@ -805,8 +818,14 @@
         <div class="article-content max-w-prose mb-20">
           <p>Aquí vamos a ver como crear nuestra web portafolio con HUGO y Blowfish, para posteriormente subirlo a github vía github pages.</p>
 <p>Requisitos previos:</p>
+<ul>
+<li>
 <p>Tener un repositorio de Github</p>
+</li>
+<li>
 <p>Tener docker instalado o hacerlo en una máquina Linux</p>
+</li>
+</ul>
 <p>Este tutorial es para Linux, yo todo este tutorial lo voy a hacer en un contenedor LXC de mi Proxmox.</p>
 <p>Lo primero será instalar HUGO, actualizamos repositorios y luego lo instalamos</p>
 <div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">sudo apt update <span class="o">&amp;&amp;</span> sudo apt install git hugo</span></span></code></pre></div></div>
@@ -832,6 +851,39 @@
     alt="imagen arrancar proyecto hugo"
     src="./images/arrancar-portfolio.png"
     ></figure>
+<p>Vamos a probar si Hugo está desplegado correctamente con el comando:</p>
+<div class="highlight-wrapper"><div class="highlight"><pre tabindex="0" class="chroma"><code class="language-bash" data-lang="bash"><span class="line"><span class="cl">hugo server --bind 0.0.0.0 --baseURL http://<span class="o">[</span>mi_ip<span class="o">]</span>:1313 -D</span></span></code></pre></div></div>
+<p>Con esto desplegamos nuestra web de Hugo en local. Ahora mismo como no tenemos ninguna plantilla, al buscar la dirección nos saldrá la siguiente captura.</p>
+<figure><img
+    class="my-0 rounded-md"
+    loading="lazy"
+    decoding="async"
+    fetchpriority="low"
+    alt="alt image"
+    src="./images/web-hugo.png"
+    ></figure>
+<p>Esto muestra, que aunque no hay ninguna página, Hugo ya está corriendo en local. Ahora vamos a añadirle un tema, en este caso añadiremos el tema de blowfish que es muy personalizable y con una gran cantidad de documentación (abajo dejo el enlace).</p>
+
+<h4 class="relative group"><a href="https://blowfish.page/"  target="_blank" rel="noreferrer">Enlace a Blowfish</a>
+    <div id="enlace-a-blowfish" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none">
+        <a class="text-primary-300 dark:text-neutral-700 !no-underline" href="#enlace-a-blowfish" aria-label="Ancla">#</a>
+    </span>
+    
+</h4>
+<p>Para añadir el tema de Blowfish</p>
+<p>Fase 2: Instalar y configurar Blowfish
+Añade la plantilla como submódulo de Git:
+Esto te permite recibir actualizaciones del tema en el futuro sin romper tu código.</p>
+<p>Bash
+git submodule add <a href="https://github.com/nunocoracao/blowfish.git"  target="_blank" rel="noreferrer">https://github.com/nunocoracao/blowfish.git</a> themes/blowfish
+Importar la configuración de ejemplo (El truco para no empezar de cero):
+Blowfish es muy personalizable y usa varios archivos de configuración. Lo más rápido es usar los que traen de ejemplo:</p>
+<p>Borra el archivo hugo.toml que se creó por defecto en la raíz de tu carpeta mi-portafolio.</p>
+<p>Ve a la ruta themes/blowfish/exampleSite/ y copia la carpeta completa llamada config.</p>
+<p>Pégala en la raíz de tu proyecto mi-portafolio.</p>
 
           
           
