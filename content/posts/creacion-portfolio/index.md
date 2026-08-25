@@ -3,6 +3,7 @@ title : 'Crear un portfolio con Hugo, Blowfish y GitHub Pages'
 date : 2026-08-13T09:24:37Z  
 draft : false
 showAuthor : true
+featureimage = "./images/arrancar-portfolio.png"
 tags : ["Portfolio","Github", "Hugo"]
 showTableOfContents : true
 ---
