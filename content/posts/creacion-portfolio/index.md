@@ -1,12 +1,12 @@
----
-title : 'Crear un portfolio con Hugo, Blowfish y GitHub Pages'  
-date : 2026-08-13T09:24:37Z  
-draft : false
-showAuthor : true
-featureimage : "./images/arrancar-portfolio.png"
-tags : ["Portfolio","Github", "Hugo"]
-showTableOfContents : true
----
++++
+title = 'Crear un portfolio con Hugo, Blowfish y GitHub Pages'  
+date = 2026-08-13T09:24:37Z  
+draft = false
+showAuthor = true
+featureimage = "./images/portada.png"
+tags = ["Portfolio","Github", "Hugo"]
+showTableOfContents = true
++++
 
 En este tutorial vamos a crear una web de portafolio utilizando **Hugo** y el tema **Blowfish**. Una vez tengamos nuestra página configurada y funcionando en local, la subiremos a un repositorio de **GitHub** y la desplegaremos mediante **GitHub Pages**.
 
