@@ -9,7 +9,7 @@ layoutBackgroundHeaderSpace : false
 <div class="sobre-mi">
 
 
-![insertar imagen]()
+<!-- ![insertar imagen]() -->
 
 ### ¿Quién soy?
 
@@ -21,7 +21,7 @@ Buenas, mi nombre es **José Ramón Peris Murcia**, nací en **Paiporta (Valenci
 
 Con *19 años* tuve que elegir entre mis dos pasiones, finalmente acabé haciendo un **CFGS de Automoción** y estuve trabajando en una empresa de automoción durante **8 años y medio**. Aunque seguía haciendo pequeñas cosas de informática, me centré más en el tema *hardware* y en trastear con *videoconsolas*. Pero llegó el **2020** y con él llegó la pandemia del **COVID-19**, el trabajo en el sector de la automoción empezó a bajar y la situación generaba incertidumbre, poco a poco vi que era el momento de un cambio.
 
-![insertar imagen]()
+<!-- ![insertar imagen]() -->
 
 #### Hora de un cambio
 
@@ -35,8 +35,8 @@ En **2024** empecé mis prácticas en **Grupo XTRA** (Manises) y desde entonces 
 
 Hoy en día vivo en **Aldaia**, sigo trasteando con el *hardware*, pero también tengo mi propio ***homelab*** que uso como laboratorio e integro aplicaciones que uso en mi día a día. Pero no todo en la vida está relacionado con la informática, también he descubierto este año que me encanta **cocinar** y voy a entrenar **boxeo** siempre que puedo como forma de descargar.
 
-![insertar imagen]()
-
+<!-- ![insertar imagen]() -->
+<!-- 
 # Prueba chatgpt
 
 # ¿Quién soy?
@@ -82,6 +82,6 @@ Pero no todo gira alrededor de la informática. Durante los últimos años tambi
 Al final, creo que todas estas experiencias forman parte de quién soy hoy: una persona curiosa, con ganas de aprender y de seguir evolucionando, tanto a nivel profesional como personal.
 
 ![insertar imagen]()
-
+ -->
 
 </div>
