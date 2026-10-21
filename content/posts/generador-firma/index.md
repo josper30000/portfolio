@@ -20,6 +20,7 @@ A lo largo del tiempo se intentó abordar esta problemática mediante distintas 
 
 ## 💡 La Solución
 
+
 ![alt image](./images/Firma.png)
 
 Desarrollé una herramienta web que automatiza el proceso de generación a partir de un formulario accesible para cualquier perfil técnico o no técnico:
@@ -50,4 +51,4 @@ Un aspecto clave durante el desarrollo fue priorizar la **escalabilidad** y **ma
 
 ## 🚀 Enlaces y Recursos
 
-- 📂 **Repositorio de GitHub:** [Añade la URL de tu repositorio aquí]
+- 📂 **Repositorio de GitHub:** [**Pincha aqui**](https://github.com/josper30000/email-sign-generator)
