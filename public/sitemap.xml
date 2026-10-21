@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://192.168.1.57:1313/posts/asus-rog-ally/</loc>
+    <lastmod>2026-08-13T09:24:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://192.168.1.57:1313/posts/creacion-portfolio/</loc>
+    <lastmod>2026-08-13T09:24:37+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://192.168.1.57:1313/posts/hermes/</loc>
     <lastmod>2026-08-13T09:24:37+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

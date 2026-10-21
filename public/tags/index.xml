@@ -9,7 +9,67 @@
     <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
     <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
     <copyright>© 2026 José Ramón Peris</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 09:24:37 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2026 09:24:37 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gaming</title>
+      <link>http://192.168.1.57:1313/tags/gaming/</link>
+      <pubDate>Wed, 02 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/gaming/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>http://192.168.1.57:1313/tags/linux/</link>
+      <pubDate>Wed, 02 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/linux/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Tech Tutorial</title>
+      <link>http://192.168.1.57:1313/tags/tech-tutorial/</link>
+      <pubDate>Wed, 02 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/tech-tutorial/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Agentes IA</title>
+      <link>http://192.168.1.57:1313/tags/agentes-ia/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/agentes-ia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hermes Agent</title>
+      <link>http://192.168.1.57:1313/tags/hermes-agent/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/hermes-agent/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Herramientas Desarrollo</title>
+      <link>http://192.168.1.57:1313/tags/herramientas-desarrollo/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/herramientas-desarrollo/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Github</title>
@@ -42,11 +102,51 @@
     </item>
     
     <item>
+      <title>Automatizaciones</title>
+      <link>http://192.168.1.57:1313/tags/automatizaciones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/automatizaciones/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bazzite</title>
+      <link>http://192.168.1.57:1313/tags/bazzite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/bazzite/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>IA</title>
+      <link>http://192.168.1.57:1313/tags/ia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/ia/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Patata</title>
       <link>http://192.168.1.57:1313/tags/patata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
       <guid>http://192.168.1.57:1313/tags/patata/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Server</title>
+      <link>http://192.168.1.57:1313/tags/server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/server/</guid>
       <description></description>
       
     </item>
