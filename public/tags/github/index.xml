@@ -9,14 +9,14 @@
     <managingEditor>peris30000@outlook.es (José Ramón Peris)</managingEditor>
     <webMaster>peris30000@outlook.es (José Ramón Peris)</webMaster>
     <copyright>© 2026 José Ramón Peris</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 09:24:37 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Sep 2026 09:24:37 +0000</lastBuildDate><atom:link href="http://192.168.1.57:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Crear un portfolio con Hugo, Blowfish y GitHub Pages</title>
-      <link>http://192.168.1.57:1313/posts/asus-rog-ally/</link>
-      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
+      <title>Generador de firmas: Programa en Python</title>
+      <link>http://192.168.1.57:1313/posts/generador-firma/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/posts/asus-rog-ally/</guid>
+      <guid>http://192.168.1.57:1313/posts/generador-firma/</guid>
       <description></description>
       
     </item>
@@ -27,16 +27,6 @@
       <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
       <guid>http://192.168.1.57:1313/posts/creacion-portfolio/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Crear un portfolio con Hugo, Blowfish y GitHub Pages</title>
-      <link>http://192.168.1.57:1313/posts/hermes/</link>
-      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/posts/hermes/</guid>
       <description></description>
       
     </item>

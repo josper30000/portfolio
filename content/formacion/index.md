@@ -16,6 +16,41 @@ showAuthor: true
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td>Nestkope SSE Administrator</td>
+            <td>Netskope</td>
+            <td>oct. 2026 - oct. 2028</td>
+            <td><img class="customEntitityAlbum" src="./images/netskope.png"/></td>
+            <td><a target="_blank" href="https://verify.skilljar.com/c/aszjo24859xt">Link</a></td>
+        </tr>
+        <tr>
+            <td>Netskope SASE Specialist</td>
+            <td>Netskope</td>
+            <td>oct. 2026 - oct. 2028</td>
+            <td><img class="customEntitityAlbum" src="./images/netskope.png"/></td>
+            <td><a target="_blank" href="https://verify.skilljar.com/c/69ip23eimgn4">Link</a></td>
+        </tr>
+        <tr>
+            <td>Netskope SASE Essentials Hands-On Lab for Customers</td>
+            <td>Netskope</td>
+            <td>oct. 2026 - oct. 2028</td>
+            <td><img class="customEntitityAlbum" src="./images/netskope.png"/></td>
+            <td><a target="_blank" href="https://verify.skilljar.com/c/asja2um8aciv">Link</a></td>
+        </tr>
+        <tr>
+            <td>Netskope SASE Associate</td>
+            <td>Netskope</td>
+            <td>oct. 2026</td>
+            <td><img class="customEntitityAlbum" src="./images/netskope.png"/></td>
+            <td><a target="_blank" href="https://verify.skilljar.com/c/wfnmrncjj4im">Link</a></td>
+        </tr>
+        <tr>
+            <td>Netskope SASE Essentials</td>
+            <td>Netskope</td>
+            <td>sept. 2026</td>
+            <td><img class="customEntitityAlbum" src="./images/netskope.png"/></td>
+            <td><a target="_blank" href="https://verify.skilljar.com/c/ot5drpr999to">Link</a></td>
+        </tr>
          <tr>
             <td>Introduction to Cybersecurity</td>
             <td>Cisco</td>

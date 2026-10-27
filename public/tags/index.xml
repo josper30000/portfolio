@@ -52,6 +52,16 @@
     </item>
     
     <item>
+      <title>Github</title>
+      <link>http://192.168.1.57:1313/tags/github/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
       <title>Hermes Agent</title>
       <link>http://192.168.1.57:1313/tags/hermes-agent/</link>
       <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
@@ -72,11 +82,21 @@
     </item>
     
     <item>
-      <title>Github</title>
-      <link>http://192.168.1.57:1313/tags/github/</link>
-      <pubDate>Thu, 13 Aug 2026 09:24:37 +0000</pubDate>
+      <title>Mail</title>
+      <link>http://192.168.1.57:1313/tags/mail/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/tags/github/</guid>
+      <guid>http://192.168.1.57:1313/tags/mail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>http://192.168.1.57:1313/tags/python/</link>
+      <pubDate>Tue, 01 Sep 2026 09:24:37 +0000</pubDate>
+      <author>peris30000@outlook.es (José Ramón Peris)</author>
+      <guid>http://192.168.1.57:1313/tags/python/</guid>
       <description></description>
       
     </item>
@@ -102,51 +122,11 @@
     </item>
     
     <item>
-      <title>Automatizaciones</title>
-      <link>http://192.168.1.57:1313/tags/automatizaciones/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/tags/automatizaciones/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Bazzite</title>
-      <link>http://192.168.1.57:1313/tags/bazzite/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/tags/bazzite/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>IA</title>
-      <link>http://192.168.1.57:1313/tags/ia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/tags/ia/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
       <title>Patata</title>
       <link>http://192.168.1.57:1313/tags/patata/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>peris30000@outlook.es (José Ramón Peris)</author>
       <guid>http://192.168.1.57:1313/tags/patata/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Server</title>
-      <link>http://192.168.1.57:1313/tags/server/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>peris30000@outlook.es (José Ramón Peris)</author>
-      <guid>http://192.168.1.57:1313/tags/server/</guid>
       <description></description>
       
     </item>
