@@ -40,4 +40,5 @@ virtualizada (Proxmox), aportando visión técnica a las necesidades operativas 
 - Cloud: AWS Certified Cloud Practitioner | Microsoft Azure Fundamentals (AZ-900).
 - IA: Certificate of completion: Claude 101 | Claude Code in Action (Anthropic).
 - DevOps & Sistemas: GitHub Foundations | Certificación Linux Essentials (LPI).
+- Ciberseguridad: Netskope SASE Associate | Netskope SSE Administrator
 </div>
